@@ -10,7 +10,7 @@ Ce dépôt regroupe une sélection de projets personnels et académiques illustr
 - Programmation orientée objet
 - Manipulation et valorisation de données
 
-  ➡️ le détail des codes se trouve ici : <https://ramdane691.github.io/mon-portfolio.html>
+  ➡️ le détail des codes se trouve ici : <https://ramdane-amaouz.github.io/mon-portfolio.html>
 
 ---
 
