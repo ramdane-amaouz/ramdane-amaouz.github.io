@@ -34,7 +34,7 @@ Grille interactive en architecture MVC où chaque case correspond à une donnée
 
 ### 📦 IStock — Gestion de stock multi-entreprises
 Application web permettant la gestion de stocks pour plusieurs entreprises, avec rôles utilisateurs, base de données relationnelle et API.  
-**Technos :** Python, SQL, API REST
+**Technos :** Python (FastAPI), JavaScript (React), SQL, API REST
 
 ---
 
