@@ -26,6 +26,22 @@ Je m’intéresse particulièrement à :
 
 ## 🚀 Projets principaux
 
+
+### 📊 JoyStock — SaaS de gestion de stock (stage développeur full-stack)
+Application SaaS complète de gestion de stock et d'inventaire développée en stage pour **Enjoy Tacos** (franchise Enjo La Doua, Villeurbanne), déployée en production et utilisée par un client réel.  
+Architecture full-stack avec backend API, frontend web, application mobile, authentification sécurisée et base de données relationnelle avec politiques de sécurité au niveau ligne (RLS).
+
+**Fonctionnalités clés :**
+- Gestion des employés avec rôles et permissions (RBAC), suppression logique (soft delete)
+- Prévisions de stock via fonctions SQL
+- Module coûts & marges avec visualisations de données (Recharts)
+- Export CSV, réinitialisation de mot de passe sécurisée
+- Application mobile avec UX dédiée (React Native / Expo)
+- Suites de tests automatisés (backend et frontend)
+
+**Technos :** FastAPI (Python), React/Vite, React Native (Expo), Supabase (PostgreSQL, RLS), JWT (ES256/JWKS), Resend, Render, Vercel, pytest, Vitest
+
+
 ### 🧱 BrickMaster
 Grille interactive en architecture MVC où chaque case correspond à une donnée manipulable dynamiquement via des formulaires HTML.  
 **Technos :** Python, HTML/CSS, MVC
